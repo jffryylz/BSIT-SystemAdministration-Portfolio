@@ -175,6 +175,12 @@ The switch was sized by counting connections, not employees:
 
 A 24-port switch would have been fully consumed on day one with three devices left unplugged. At 27 of 48 ports the design has room to grow to roughly 35 staff without replacing any core equipment.
 
+### Structured Cabling
+
+Of the 27 live ports, four are patched inside the cabinet and need no horizontal cable run: the two bonded server NICs, the NAS, and the trunk uplink to the firewall. That leaves **23 active horizontal runs** — 20 desk drops, 2 access points and 1 printer.
+
+**Approximately 26 horizontal runs are planned:** the 23 active drops plus **3 spare drops** reserved for the meeting room and reception during the initial fit-out. At an average of roughly 25 m per run this is about 650 m of horizontal cable; three 305 m boxes supply roughly 915 m, covering routing detours, service loops, terminations and waste. The spare drops cost almost nothing while the ceiling is already open, and they avoid disruptive cable work when the office grows.
+
 ### VLAN Segmentation Plan
 
 | VLAN | Name | Subnet | Assigned To |
