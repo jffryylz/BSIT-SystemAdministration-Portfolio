@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1180" viewBox="0 0 1600 1180" role="img" aria-label="ABC Startup Solutions enterprise network topology">
+<rect width="1600" height="1180" fill="#FFFFFF"/>
+<rect x="18" y="18" width="1564" height="1144" rx="6" fill="none" stroke="#C9D1DC" stroke-width="1.4"/>
+<text x="58" y="62" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="27" font-weight="700" fill="#1A2233" text-anchor="start" letter-spacing="-0.3">ABC Startup Solutions — Enterprise Network Topology</text>
+<text x="58" y="84" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#5A6577" text-anchor="start" letter-spacing="0">Single-Floor Office LAN  ·  20 Users  ·  VLAN-Segmented Design</text>
+<path d="M 58 71 h 640" stroke="#C9D1DC" stroke-width="0" />
+<text x="1542" y="48" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#1A2233" text-anchor="end" letter-spacing="0">Prepared by:  Jeffrey D. Policarpio</text>
+<text x="1542" y="67" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="11.5" font-weight="400" fill="#5A6577" text-anchor="end" letter-spacing="0">ITEP 414 – System Administration and Maintenance</text>
+<text x="1542" y="84" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="11.5" font-weight="400" fill="#5A6577" text-anchor="end" letter-spacing="0">Week 02  ·  Bachelor of Science in Information Technology</text>
+<path d="M 40 96 H 1560" stroke="#C9D1DC" stroke-width="1.2"/>
+<path d="M 668 168 a 22 22 0 0 1 6 -43 a 30 30 0 0 1 55 -17 a 25 25 0 0 1 38 18 a 21 21 0 0 1 -5 42 Z" fill="#F7FAFD" stroke="#2E5090" stroke-width="2.4" stroke-linejoin="round" transform="translate(84,0)"/>
+<text x="800.0" y="145" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="14" font-weight="700" fill="#2E5090" text-anchor="middle" letter-spacing="1.2">INTERNET</text>
+<text x="800.0" y="163" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.5" font-weight="400" fill="#5A6577" text-anchor="middle" letter-spacing="0">Business Fibre (FTTP)</text>
+<rect x="640.0" y="232" width="320" height="74" rx="8" fill="#FFFFFF" stroke="#2E5090" stroke-width="2.0"/><g transform="translate(684.0,269.0) scale(1.0)"><rect x="-20" y="-8" width="40" height="16" rx="3" fill="none" stroke="#2E5090" stroke-width="2.2"/><circle cx="-13" cy="0" r="2" fill="#2E5090"/><circle cx="-6" cy="0" r="2" fill="#2E5090"/><circle cx="1" cy="0" r="2" fill="#2E5090"/><path d="M 10 0 h 8" stroke="#2E5090" stroke-width="2.2" stroke-linecap="round"/><path d="M -14 -8 v -6 M 14 -8 v -6" stroke="#2E5090" stroke-width="2" stroke-linecap="round"/></g><text x="724.0" y="263" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#1A2233" text-anchor="start" letter-spacing="0">ISP Modem / ONU</text><text x="724.0" y="282" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.8" font-weight="400" fill="#5A6577" text-anchor="start" letter-spacing="0">NET-MDM-001  ·  Bridge Mode</text>
+<rect x="640.0" y="346" width="320" height="74" rx="8" fill="#FFFFFF" stroke="#2E5090" stroke-width="2.0"/><g transform="translate(684.0,383.0) scale(1.0)"><path d="M -20 -7 a 20 6 0 0 1 40 0 v 14 a 20 6 0 0 1 -40 0 Z" fill="none" stroke="#2E5090" stroke-width="2.2"/><ellipse cx="0" cy="-7" rx="20" ry="6" fill="none" stroke="#2E5090" stroke-width="2.2"/><path d="M -11 -1 h 9 M -2 -1 l -3 -3 M -2 -1 l -3 3" stroke="#2E5090" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M 11 5 h -9 M 2 5 l 3 -3 M 2 5 l 3 3" stroke="#2E5090" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g><text x="724.0" y="377" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#1A2233" text-anchor="start" letter-spacing="0">Edge Router</text><text x="724.0" y="396" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.8" font-weight="400" fill="#5A6577" text-anchor="start" letter-spacing="0">NET-RTR-001  ·  WAN / NAT / VPN</text>
+<rect x="640.0" y="460" width="320" height="74" rx="8" fill="#FDF4F3" stroke="#B03A2E" stroke-width="2.0"/><g transform="translate(684.0,497.0) scale(1.0)" fill="none" stroke="#B03A2E" stroke-width="1.9" stroke-linejoin="round"><rect x="-21" y="-12" width="13" height="7"/><rect x="-6" y="-12" width="13" height="7"/><rect x="9" y="-12" width="13" height="7"/><rect x="-21" y="-3" width="6" height="7"/><rect x="-13" y="-3" width="13" height="7"/><rect x="2" y="-3" width="13" height="7"/><rect x="17" y="-3" width="6" height="7"/><rect x="-21" y="6" width="13" height="7"/><rect x="-6" y="6" width="13" height="7"/><rect x="9" y="6" width="13" height="7"/></g><text x="724.0" y="491" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#1A2233" text-anchor="start" letter-spacing="0">UTM Firewall</text><text x="724.0" y="510" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.8" font-weight="400" fill="#5A6577" text-anchor="start" letter-spacing="0">NET-FW-001  ·  IPS · Inter-VLAN Policy</text>
+<rect x="1120" y="346" width="230" height="74" rx="8" fill="#F7FAFD" stroke="#2E5090" stroke-width="2.0"/>
+<g transform="translate(1158,383.0) scale(0.85)"><path d="M -5 16 l 5 -26 l 5 26" fill="none" stroke="#2E5090" stroke-width="2.2" stroke-linejoin="round"/><path d="M -3.2 6 h 6.4" stroke="#2E5090" stroke-width="1.8" stroke-linecap="round"/><path d="M -11 -12 a 12 12 0 0 0 0 10 M 11 -12 a 12 12 0 0 1 0 10" fill="none" stroke="#2E5090" stroke-width="1.9" stroke-linecap="round"/></g>
+<text x="1190" y="377" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#1A2233" text-anchor="start" letter-spacing="0">5G / LTE Backup</text>
+<text x="1190" y="395" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.2" font-weight="400" fill="#5A6577" text-anchor="start" letter-spacing="0">WAN2 · Automatic Failover</text>
+<rect x="500.0" y="574" width="600" height="74" rx="8" fill="#F2F7FC" stroke="#1668B0" stroke-width="2.0"/>
+<g transform="translate(552.0,611.0) scale(1.0)"><path d="M -24 -9 h 48 l 8 9 l -8 9 h -48 l -8 -9 Z" fill="none" stroke="#1668B0" stroke-width="2.2" stroke-linejoin="round"/><path d="M -14 -4 h 16 M 2 -4 l -4 -3 M 2 -4 l -4 3" stroke="#1668B0" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M 14 4 h -16 M -2 4 l 4 -3 M -2 4 l 4 3" stroke="#1668B0" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="596.0" y="605" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#1A2233" text-anchor="start" letter-spacing="0">Managed 48-Port Gigabit PoE+ Switch</text>
+<text x="596.0" y="624" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.8" font-weight="400" fill="#5A6577" text-anchor="start" letter-spacing="0">NET-SW-001  ·  802.1Q VLAN Tagging  ·  27 of 48 ports in use</text>
+<path d="M 800.0 178 L 800.0 232" stroke="#2E5090" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<rect x="870.2" y="199.8" width="75.5" height="16.3" rx="3" fill="#FFFFFF" stroke="#C9D1DC" stroke-width="0.8"/><text x="908.0" y="211.57" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#5A6577" text-anchor="middle" letter-spacing="0">Fibre Uplink</text>
+<path d="M 800.0 306 L 800.0 346" stroke="#2E5090" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<rect x="872.8" y="316.8" width="86.4" height="16.3" rx="3" fill="#FFFFFF" stroke="#C9D1DC" stroke-width="0.8"/><text x="916.0" y="328.57" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#5A6577" text-anchor="middle" letter-spacing="0">PPPoE / Bridge</text>
+<path d="M 800.0 420 L 800.0 460" stroke="#2E5090" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<rect x="869.2" y="430.8" width="53.7" height="16.3" rx="3" fill="#FFFFFF" stroke="#C9D1DC" stroke-width="0.8"/><text x="896.0" y="442.57" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#5A6577" text-anchor="middle" letter-spacing="0">WAN Link</text>
+<path d="M 800.0 534 L 800.0 574" stroke="#B03A2E" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<rect x="861.5" y="544.8" width="141.0" height="16.3" rx="3" fill="#FFFFFF" stroke="#C9D1DC" stroke-width="0.8"/><text x="932.0" y="556.57" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#5A6577" text-anchor="middle" letter-spacing="0">802.1Q Trunk · All VLANs</text>
+<path d="M 1120 383.0 L 960.0 383.0" stroke="#2E5090" stroke-width="2.0" fill="none" stroke-linecap="round" stroke-dasharray="7 5"/>
+<rect x="1015.9" y="363.8" width="48.2" height="16.3" rx="3" fill="#FFFFFF" stroke="#C9D1DC" stroke-width="0.8"/><text x="1040.0" y="375.57" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#5A6577" text-anchor="middle" letter-spacing="0">Standby</text>
+<path d="M 800.0 648 L 800.0 692" stroke="#1668B0" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<path d="M 161.25 692 L 1438.75 692" stroke="#1668B0" stroke-width="2.6" fill="none" stroke-linecap="butt"/>
+<path d="M 161.25 692 L 161.25 732" stroke="#37474F" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<circle cx="161.25" cy="692" r="3.4" fill="#1668B0"/>
+<rect x="79.25" y="732" width="164" height="132" rx="8" fill="#ECEFF1" stroke="#37474F" stroke-width="1.8"/>
+<rect x="79.25" y="732" width="164" height="5" rx="2.5" fill="#37474F"/>
+<g transform="translate(161.25,774) scale(0.94)"><rect x="-13" y="-18" width="26" height="36" rx="3" fill="none" stroke="#37474F" stroke-width="2.2"/><path d="M -8 -11 h 12 M -8 -4 h 12 M -8 3 h 12" stroke="#37474F" stroke-width="1.8" stroke-linecap="round"/><circle cx="8" cy="11" r="2.1" fill="#37474F"/></g>
+<text x="161.25" y="814" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="12.4" font-weight="700" fill="#1A2233" text-anchor="middle" letter-spacing="0">Application Server</text>
+<text x="161.25" y="832" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="400" fill="#5A6577" text-anchor="middle" letter-spacing="0">HW-SRV-001 · Ubuntu 24.04 LTS</text>
+<text x="161.25" y="850" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="600" fill="#37474F" text-anchor="middle" letter-spacing="0">192.168.50.10</text>
+<path d="M 343.75 692 L 343.75 732" stroke="#37474F" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<circle cx="343.75" cy="692" r="3.4" fill="#1668B0"/>
+<rect x="261.75" y="732" width="164" height="132" rx="8" fill="#ECEFF1" stroke="#37474F" stroke-width="1.8"/>
+<rect x="261.75" y="732" width="164" height="5" rx="2.5" fill="#37474F"/>
+<g transform="translate(343.75,774) scale(0.94)"><rect x="-15" y="-16" width="30" height="32" rx="3" fill="none" stroke="#37474F" stroke-width="2.2"/><path d="M -9 -10 v 20 M -3 -10 v 20 M 3 -10 v 20 M 9 -10 v 20" stroke="#37474F" stroke-width="1.9" stroke-linecap="round"/></g>
+<text x="343.75" y="814" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="12.4" font-weight="700" fill="#1A2233" text-anchor="middle" letter-spacing="0">NAS Storage</text>
+<text x="343.75" y="832" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="400" fill="#5A6577" text-anchor="middle" letter-spacing="0">HW-NAS-001 · Backup Target</text>
+<text x="343.75" y="850" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="600" fill="#37474F" text-anchor="middle" letter-spacing="0">192.168.50.20</text>
+<path d="M 526.25 692 L 526.25 732" stroke="#37474F" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<circle cx="526.25" cy="692" r="3.4" fill="#1668B0"/>
+<rect x="444.25" y="732" width="164" height="132" rx="8" fill="#ECEFF1" stroke="#37474F" stroke-width="1.8"/>
+<rect x="444.25" y="732" width="164" height="5" rx="2.5" fill="#37474F"/>
+<g transform="translate(526.25,774) scale(0.94)"><rect x="-16" y="-4" width="32" height="15" rx="2.5" fill="none" stroke="#37474F" stroke-width="2.2"/><path d="M -10 -4 v -10 h 20 v 10" fill="none" stroke="#37474F" stroke-width="2" stroke-linejoin="round"/><path d="M -10 11 v 8 h 20 v -8" fill="none" stroke="#37474F" stroke-width="2" stroke-linejoin="round"/><circle cx="10" cy="3" r="1.8" fill="#37474F"/></g>
+<text x="526.25" y="814" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="12.4" font-weight="700" fill="#1A2233" text-anchor="middle" letter-spacing="0">Network Printer</text>
+<text x="526.25" y="832" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="400" fill="#5A6577" text-anchor="middle" letter-spacing="0">HW-PRN-001 · Shared MFP</text>
+<text x="526.25" y="850" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="600" fill="#37474F" text-anchor="middle" letter-spacing="0">192.168.50.30</text>
+<path d="M 708.75 692 L 708.75 732" stroke="#1B7A5A" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<circle cx="708.75" cy="692" r="3.4" fill="#1668B0"/>
+<rect x="626.75" y="732" width="164" height="132" rx="8" fill="#E8F4EF" stroke="#1B7A5A" stroke-width="1.8"/>
+<rect x="626.75" y="732" width="164" height="5" rx="2.5" fill="#1B7A5A"/>
+<g transform="translate(708.75,774) scale(0.94)"><rect x="-17" y="-14" width="34" height="23" rx="2.5" fill="none" stroke="#1B7A5A" stroke-width="2.2"/><path d="M 0 9 v 6 M -9 15 h 18" stroke="#1B7A5A" stroke-width="2.2" stroke-linecap="round"/><path d="M -11 -8 h 15 M -11 -3 h 10" stroke="#1B7A5A" stroke-width="1.6" stroke-linecap="round"/></g>
+<text x="708.75" y="814" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="12.4" font-weight="700" fill="#1A2233" text-anchor="middle" letter-spacing="0">IT Department</text>
+<text x="708.75" y="832" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="400" fill="#5A6577" text-anchor="middle" letter-spacing="0">5 Users · VLAN 10</text>
+<text x="708.75" y="850" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="600" fill="#1B7A5A" text-anchor="middle" letter-spacing="0">192.168.10.0/24</text>
+<path d="M 891.25 692 L 891.25 732" stroke="#B0621B" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<circle cx="891.25" cy="692" r="3.4" fill="#1668B0"/>
+<rect x="809.25" y="732" width="164" height="132" rx="8" fill="#FBF0E5" stroke="#B0621B" stroke-width="1.8"/>
+<rect x="809.25" y="732" width="164" height="5" rx="2.5" fill="#B0621B"/>
+<g transform="translate(891.25,774) scale(0.94)"><rect x="-17" y="-14" width="34" height="23" rx="2.5" fill="none" stroke="#B0621B" stroke-width="2.2"/><path d="M 0 9 v 6 M -9 15 h 18" stroke="#B0621B" stroke-width="2.2" stroke-linecap="round"/><path d="M -11 -8 h 15 M -11 -3 h 10" stroke="#B0621B" stroke-width="1.6" stroke-linecap="round"/></g>
+<text x="891.25" y="814" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="12.4" font-weight="700" fill="#1A2233" text-anchor="middle" letter-spacing="0">HR Department</text>
+<text x="891.25" y="832" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="400" fill="#5A6577" text-anchor="middle" letter-spacing="0">4 Users · VLAN 20</text>
+<text x="891.25" y="850" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="600" fill="#B0621B" text-anchor="middle" letter-spacing="0">192.168.20.0/24</text>
+<path d="M 1073.75 692 L 1073.75 732" stroke="#7A3E9D" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<circle cx="1073.75" cy="692" r="3.4" fill="#1668B0"/>
+<rect x="991.75" y="732" width="164" height="132" rx="8" fill="#F4ECF9" stroke="#7A3E9D" stroke-width="1.8"/>
+<rect x="991.75" y="732" width="164" height="5" rx="2.5" fill="#7A3E9D"/>
+<g transform="translate(1073.75,774) scale(0.94)"><rect x="-17" y="-14" width="34" height="23" rx="2.5" fill="none" stroke="#7A3E9D" stroke-width="2.2"/><path d="M 0 9 v 6 M -9 15 h 18" stroke="#7A3E9D" stroke-width="2.2" stroke-linecap="round"/><path d="M -11 -8 h 15 M -11 -3 h 10" stroke="#7A3E9D" stroke-width="1.6" stroke-linecap="round"/></g>
+<text x="1073.75" y="814" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="12.4" font-weight="700" fill="#1A2233" text-anchor="middle" letter-spacing="0">Finance Department</text>
+<text x="1073.75" y="832" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="400" fill="#5A6577" text-anchor="middle" letter-spacing="0">5 Users · VLAN 30</text>
+<text x="1073.75" y="850" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="600" fill="#7A3E9D" text-anchor="middle" letter-spacing="0">192.168.30.0/24</text>
+<path d="M 1256.25 692 L 1256.25 732" stroke="#1668B0" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<circle cx="1256.25" cy="692" r="3.4" fill="#1668B0"/>
+<rect x="1174.25" y="732" width="164" height="132" rx="8" fill="#E8F1FA" stroke="#1668B0" stroke-width="1.8"/>
+<rect x="1174.25" y="732" width="164" height="5" rx="2.5" fill="#1668B0"/>
+<g transform="translate(1256.25,774) scale(0.94)"><rect x="-17" y="-14" width="34" height="23" rx="2.5" fill="none" stroke="#1668B0" stroke-width="2.2"/><path d="M 0 9 v 6 M -9 15 h 18" stroke="#1668B0" stroke-width="2.2" stroke-linecap="round"/><path d="M -11 -8 h 15 M -11 -3 h 10" stroke="#1668B0" stroke-width="1.6" stroke-linecap="round"/></g>
+<text x="1256.25" y="814" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="12.4" font-weight="700" fill="#1A2233" text-anchor="middle" letter-spacing="0">Sales Department</text>
+<text x="1256.25" y="832" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="400" fill="#5A6577" text-anchor="middle" letter-spacing="0">6 Users · VLAN 40</text>
+<text x="1256.25" y="850" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="600" fill="#1668B0" text-anchor="middle" letter-spacing="0">192.168.40.0/24</text>
+<path d="M 1438.75 692 L 1438.75 732" stroke="#1668B0" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<circle cx="1438.75" cy="692" r="3.4" fill="#1668B0"/>
+<rect x="1356.75" y="732" width="164" height="132" rx="8" fill="#E8F1FA" stroke="#1668B0" stroke-width="1.8"/>
+<rect x="1356.75" y="732" width="164" height="5" rx="2.5" fill="#1668B0"/>
+<g transform="translate(1438.75,774) scale(0.94)"><rect x="-16" y="6" width="32" height="11" rx="3" fill="none" stroke="#1668B0" stroke-width="2.2"/><circle cx="0" cy="11.5" r="1.9" fill="#1668B0"/><path d="M -7 1 a 10 10 0 0 1 14 0" fill="none" stroke="#1668B0" stroke-width="2" stroke-linecap="round"/><path d="M -12 -5 a 17 17 0 0 1 24 0" fill="none" stroke="#1668B0" stroke-width="2" stroke-linecap="round"/><path d="M -17 -11 a 24 24 0 0 1 34 0" fill="none" stroke="#1668B0" stroke-width="2" stroke-linecap="round"/></g>
+<text x="1438.75" y="814" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="11.5" font-weight="700" fill="#1A2233" text-anchor="middle" letter-spacing="0">Wireless Access Point</text>
+<text x="1438.75" y="832" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="400" fill="#5A6577" text-anchor="middle" letter-spacing="0">NET-AP-001 · 2 Units</text>
+<text x="1438.75" y="850" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.1" font-weight="600" fill="#1668B0" text-anchor="middle" letter-spacing="0">Wi-Fi 6 / PoE+</text>
+<path d="M 1438.75 864 L 1438.75 898" stroke="#1668B0" stroke-width="2.0" fill="none" stroke-linecap="round" stroke-dasharray="6 5"/>
+<rect x="1331.75" y="898" width="214" height="96" rx="8" fill="#FBFCFD" stroke="#B7C0CB" stroke-width="1.6"/>
+<g transform="translate(1367.75,944) scale(0.82)"><path d="M -13 -11 h 26 v 17 h -26 Z" fill="none" stroke="#5A6577" stroke-width="2.2" stroke-linejoin="round"/><path d="M -19 6 h 38 l -3 5 h -32 Z" fill="none" stroke="#5A6577" stroke-width="2.2" stroke-linejoin="round"/></g>
+<text x="1397.75" y="926" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="11.6" font-weight="700" fill="#1A2233" text-anchor="start" letter-spacing="0">Wireless Clients</text>
+<text x="1397.75" y="946" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="9.8" font-weight="600" fill="#1668B0" text-anchor="start" letter-spacing="0">Sales laptops · VLAN 40</text>
+<text x="1397.75" y="963" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="9.8" font-weight="600" fill="#6E7781" text-anchor="start" letter-spacing="0">Guest devices · VLAN 60</text>
+<text x="1397.75" y="981" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="9.2" font-weight="400" fill="#5A6577" text-anchor="start" letter-spacing="0">Guest SSID is internet-only</text>
+<rect x="58" y="1016" width="1484" height="92" rx="7" fill="#F4F7FA" stroke="#C9D1DC" stroke-width="1.2"/>
+<text x="74" y="1038" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#5A6577" text-anchor="start" letter-spacing="1.4">LEGEND</text>
+<rect x="74" y="1050" width="13" height="13" rx="2.5" fill="#1B7A5A"/>
+<text x="95" y="1061" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.6" font-weight="400" fill="#1A2233" text-anchor="start" letter-spacing="0">VLAN 10 · IT  (192.168.10.0/24)</text>
+<rect x="317" y="1050" width="13" height="13" rx="2.5" fill="#B0621B"/>
+<text x="338" y="1061" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.6" font-weight="400" fill="#1A2233" text-anchor="start" letter-spacing="0">VLAN 20 · HR  (192.168.20.0/24)</text>
+<rect x="560" y="1050" width="13" height="13" rx="2.5" fill="#7A3E9D"/>
+<text x="581" y="1061" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.6" font-weight="400" fill="#1A2233" text-anchor="start" letter-spacing="0">VLAN 30 · Finance  (192.168.30.0/24)</text>
+<rect x="803" y="1050" width="13" height="13" rx="2.5" fill="#1668B0"/>
+<text x="824" y="1061" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.6" font-weight="400" fill="#1A2233" text-anchor="start" letter-spacing="0">VLAN 40 · Sales  (192.168.40.0/24)</text>
+<rect x="1046" y="1050" width="13" height="13" rx="2.5" fill="#37474F"/>
+<text x="1067" y="1061" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.6" font-weight="400" fill="#1A2233" text-anchor="start" letter-spacing="0">VLAN 50 · Infra  (192.168.50.0/24)</text>
+<rect x="1289" y="1050" width="13" height="13" rx="2.5" fill="#8A9199"/>
+<text x="1310" y="1061" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.6" font-weight="400" fill="#1A2233" text-anchor="start" letter-spacing="0">VLAN 60 · Guest  (192.168.60.0/24)</text>
+<path d="M 74 1088 L 104 1088" stroke="#31415C" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<text x="114" y="1092" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.8" font-weight="400" fill="#1A2233" text-anchor="start" letter-spacing="0">Wired Gigabit Ethernet over CAT6</text>
+<path d="M 446 1088 L 476 1088" stroke="#1668B0" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+<text x="486" y="1092" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.8" font-weight="400" fill="#1A2233" text-anchor="start" letter-spacing="0">802.1Q tagged trunk / distribution bus</text>
+<path d="M 818 1088 L 848 1088" stroke="#1668B0" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-dasharray="6 5"/>
+<text x="858" y="1092" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.8" font-weight="400" fill="#1A2233" text-anchor="start" letter-spacing="0">Wireless 802.11ax (Wi-Fi 6) association</text>
+<path d="M 1190 1088 L 1220 1088" stroke="#2E5090" stroke-width="2.0" fill="none" stroke-linecap="round" stroke-dasharray="7 5"/>
+<text x="1230" y="1092" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.8" font-weight="400" fill="#1A2233" text-anchor="start" letter-spacing="0">Standby WAN failover path</text>
+<text x="58" y="1146" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.8" font-weight="400" fill="#5A6577" text-anchor="start" letter-spacing="0">Logical enterprise network topology for ABC Startup Solutions. All department segments are isolated by VLAN and routed through the UTM firewall.</text>
+<text x="1542" y="1146" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="10.8" font-weight="400" fill="#5A6577" text-anchor="end" letter-spacing="0">Rev. 1.0  ·  August 2026</text>
+</svg>
