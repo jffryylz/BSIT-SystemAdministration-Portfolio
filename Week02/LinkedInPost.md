@@ -1,6 +1,6 @@
 # LinkedIn Post — Week 02
 
-*Draft post for my LinkedIn portfolio. Copy everything below the line — each paragraph is a single line, so LinkedIn will wrap it naturally.*
+![Enterprise Network Topology — ABC Startup Solutions](images/LinkedInPreview.png)
 
 ---
 
